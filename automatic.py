@@ -38,7 +38,7 @@ import time
 # pyautogui.click(1434,45)
 
 
-# now we are writing the program ave haaniyaand send message to aparna 
+
 # count=10
 app=input("enter which app you want to open\t")
 if(app=='whatsapp'):
